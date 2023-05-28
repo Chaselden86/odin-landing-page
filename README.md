@@ -1,2 +1,2 @@
 # odin-landing-page
-Build website from design image
+Build generic website from design image
